@@ -1,0 +1,134 @@
+https://codepen.io/yanxyz/pen/pyOQMy | Vue.js radio button
+
+https://www.cloudtechperu.com/ | CLOUD TECH PERU – EMPRESA PERUANA LÍDER EN SOLUCIONES TECNOLÓGICAS
+https://www.cloudtechsas.com/ | CLOUDTECH
+https://satec.pe/contacto | Contáctenos | SATEC PERU
+https://satec.pe/ | SATEC .PE | SATEC INDUSTRIAL | SATEC COMERCIAL
+
+https://codepen.io/jonvadillo/pen/rLOaOE | Typeahead.js custom template
+
+https://www.google.com/search?q=typeahead+basic+source+json+object&rlz=1C1CHBF_esPE888PE888&oq=typeahead+basic+source+json+object&aqs=chrome..69i57.6120j0j7&sourceid=chrome&ie=UTF-8 | typeahead basic source json object - Buscar con Google
+http://jsfiddle.net/apougher/7aaRy/ | Bootstrap TypeAhead with JSON data - JSFiddle - Code Playground
+http://jsfiddle.net/geekowls/agrg3xhj/27/ | Typahead - JSFiddle - Code Playground
+http://jsfiddle.net/w03a28h9/40 | Typeahead always shows only 5 suggestions maximum - JSFiddle - Code Playground
+https://gist.github.com/jharding/9458780#file-custom-templates-js | Example for http://twitter.github.io/typeahead.js/examples/. · GitHub
+https://gist.github.com/jharding/9458780#file-custom-templates-js | Example for http://twitter.github.io/typeahead.js/examples/. · GitHub
+https://twitter.github.io/typeahead.js/examples/ | typeahead.js – examples
+https://jsfiddle.net/djibe89/k5k7qdov/ | Bootstrap 4 with Twitter Typeahead and Material design - JSFiddle - Code Playground
+
+https://www.google.com/search?rlz=1C1CHBF_esPE888PE888&sxsrf=ALeKk018QBXBH1Rr8e5tgFK8Zpq3gUF49A%3A1582814910777&ei=vtZXXrKCL92x5OUPvsO8kAM&q=typeahead+source+json+obtener+el+id+del+objeto&oq=typeahead+source+json+obtener+el+id+del+objet&gs_l=psy-ab.3.0.33i160.35447771.35453368..35455156...0.0..0.933.4921.2-14j6-2......0....1..gws-wiz.......35i302i39j35i39j0i131i67j0i131j0j35i39i19j0i67.7p0v7o8tSJo | typeahead source json obtener el id del objeto - Buscar con Google
+https://www.iteramos.com/pregunta/53580/twitter-bootstrap-typeahead---y-la-id-de-la-etiqueta
+https://stackoverrun.com/es/q/4037347 | html - Bootstrap typeahead ajax result format - Example
+https://programacion.net/articulo/autocompletador_utilizando_el_plugin_de_jquery_autocomplete_1242 | Autocompletador utilizando el plugin de jQuery Autocomplete. Programación en Castellano.
+https://www.google.com/search?rlz=1C1CHBF_esPE888PE888&sxsrf=ALeKk02DKMnbOMLeRRTDYwPsyH3v3t59iw%3A1582817393396&ei=ceBXXvfmF-K75OUPguit2A0&q=typeahead+vs+autocomplete&oq=typeahead+vs&gs_l=psy-ab.3.0.0i203l4j0i22i30l6.179584.179659..184872...0.2..0.117.225.0j2......0....1..gws-wiz.......0i71j0.wr1ve8s9WC0 | typeahead vs autocomplete - Buscar con Google
+https://js.libhunt.com/compare-jquery-autocomplete-vs-typeahead-js | jQuery-Autocomplete vs typeahead.js | LibHunt
+https://js.libhunt.com/typeahead-js-changelog | typeahead.js changelog and releases | LibHunt
+https://github.com/twitter/typeahead.js | GitHub - twitter/typeahead.js: typeahead.js is a fast and fully-featured autocomplete library
+https://github.com/twitter/typeahead.js/blob/master/doc/jquery_typeahead.md | typeahead.js/jquery_typeahead.md at master · twitter/typeahead.js · GitHub
+https://www.earley.com/blog/how-get-most-out-type-ahead-autocomplete-and-autosuggest | Cómo aprovechar al máximo la escritura anticipada: autocompletar y autosugestión | Earley Information Science
+https://www.guitarcenter.com/ | Guitar Center: Music Instruments, Accessories and Equipment
+https://ourcodeworld.com/articles/read/193/top-10-best-autocomplete-jquery-and-javascript-plugins | Top 10 : Best autocomplete jQuery and javascript plugins | Our Code World
+https://www.devbridge.com/sourcery/components/jquery-autocomplete/ | jQuery autocomplete
+https://github.com/devbridge/jQuery-Autocomplete | GitHub - devbridge/jQuery-Autocomplete: Ajax Autocomplete for jQuery allows you to easily create autocomplete/autosuggest boxes for text input fields
+https://github.com/lorecioni/autocomplete.js | GitHub - lorecioni/autocomplete.js: A jQuery plugin for search hints
+http://lorecioni.github.io/autocomplete.js/ | Autocomplete.js
+https://twitter.github.io/typeahead.js/examples/ | typeahead.js – examples
+https://github.com/twitter/typeahead.js/blob/master/doc/jquery_typeahead.md | typeahead.js/jquery_typeahead.md at master · twitter/typeahead.js · GitHub
+http://twitter.github.io/typeahead.js/ | typeahead.js
+
+https://www.google.com/search?rlz=1C1CHBF_esPE888PE888&sxsrf=ALeKk01xbJaG_RVVQKniHoMAgsfufLU3UA%3A1582833603885&ei=wx9YXtjRNbTW5OUP4oCXyAo&q=typeahead++vuejs&oq=typeahead++vuejs&gs_l=psy-ab.3..0i7i30l2j0i203j0i5i30l2j0i8i30j0i8i13i30j0i8i30.8638.8638..8816...0.2..0.119.119.0j1......0....1..gws-wiz.......0i71.reUzB7_VctY&ved=0ahUKEwiYv8rVwvLnAhU0K7kGHWLABakQ4dUDCAs&uact=5 | typeahead vuejs - Buscar con Google
+https://github.com/pespantelis/vue-typeahead/tree/master/demo | vue-typeahead/demo at master · pespantelis/vue-typeahead · GitHub
+https://pespantelis.github.io/vue-typeahead/ | Typeahead | Vue.js
+https://vuejsexamples.com/tag/autocomplete/ | Autocomplete - Vue.js Examples
+https://forum.vuejs.org/t/typeahead-js-with-vue/22231 | Typeahead.js with vue - Get Help - Vue Forum
+
+https://static.olymptrade.com/lands/OTPF-LPL45-07-01es/index.html?af_siteid=OTPF-LPL45-07-01es&affiliate_id=657334&lref=&lrefch=affiliate&pixel=1&subid1=t1c&subid2=2y9nnnh1bqkr | Olymp Trade — plataforma de trading online
+
+https://techlandia.com/diferencia-ejecucion-compilacion-info_280223/ | Diferencia entre tiempo de ejecución y tiempo de compilación | Techlandia
+
+http://localhost:56348/Persona/Mantenimiento | Crece Capital
+http://localhost:56348/ | Inicio de Sesión
+http://localhost:56348/ | Inicio de Sesión
+https://es.stackoverflow.com/questions/7647/c%C3%B3mo-puedo-cambiar-el-color-del-hover-sobre-un-link-dentro-de-una-lista-de-elem | css - ¿Cómo puedo cambiar el color del hover sobre un link dentro de una lista de elementos? - Stack Overflow en español
+https://developer.mozilla.org/es/docs/Web/CSS/:hover | :hover - CSS | MDN
+https://blog.interactius.com/12-efectos-css-en-una-imagen-con-el-evento-hover-5026b5cf1983 | 12 efectos css en una imagen con el evento “hover” - Blog de Interactius UX
+https://www.google.com/search?rlz=1C1CHBF_esPE888PE888&sxsrf=ALeKk038OkXX9nQm8xpsQ5IIO_4vsYFBTw%3A1582732695272&ei=l5VWXtCVEJiv5OUPyrOuuAs&q=ver+todos+los+estilos+css+plugin+chrome&oq=ver+todos+los+estilos+css+plugin+chrome&gs_l=psy-ab.3..33i160l2.24481.29104..29213...4.1..1.279.1459.0j9j1......0....1..gws-wiz.......0i71j35i39.kIgzMiWfe9c&ved=0ahUKEwiQvc3gyu_nAhWYF7kGHcqZC7cQ4dUDCAs&uact=5 | ver todos los estilos css plugin chrome - Buscar con Google
+https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=es-419 | Stylish - temas a medida para cada sitio web. - Chrome Web Store
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-styles?hl=es | Editar estilos  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles?hl=es | Inspecciona y edita páginas y estilos  |  Tools for Web Developers
+https://tuwebdecero.com/extensiones-chrome-diseno-web/ | 15 Extensiones de Chrome para Diseño Web [Imprescindibles]
+https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp/related | ColorZilla - Chrome Web Store
+https://www.colorzilla.com/chrome/welcome/new/ | ColorZilla Installed
+
+http://localhost:58988/Odontologia/New | Fitness Dashboard - Robust - Responsive Bootstrap 4 Admin Dashboard Template for Web Application
+http://localhost:58988/EspecialidadMedica/Lista | Fitness Dashboard - Robust - Responsive Bootstrap 4 Admin Dashboard Template for Web Application
+http://localhost:58988/ProtocoloGenerico/New | Fitness Dashboard - Robust - Responsive Bootstrap 4 Admin Dashboard Template for Web Application
+https://www.google.com/search?rlz=1C1CHBF_esPE888PE888&sxsrf=ALeKk02bq6qIPux8p8QUuBVpykr-FoFDCw%3A1582763576305&ei=OA5XXoycEuSm5OUPg-i4gAs&q=mostrar+fecha+y+hora+en+htm+ejuemplos&oq=mostrar+fecha+y+hora+en+htm+ejuemplos&gs_l=psy-ab.3..33i10i160l2.588707.592151..592301...1.2..0.374.2966.0j1j11j1......0....1..gws-wiz.......0i71j35i304i39j0i22i30j35i39j33i22i29i30j33i160.25PhE_RKGqM&ved=0ahUKEwiMmOrlvfDnAhVkE7kGHQM0DrAQ4dUDCAs&uact=5 | mostrar fecha y hora en htm ejuemplos - Buscar con Google
+https://desarrolloweb.com/articulos/mostrar-fecha-actual-javascript.html | 5 formas de mostrar la fecha actual con Javascript
+https://www.jose-aguilar.com/blog/status-bar-clock/ | Mostrar fecha y hora en barra de estado - Jose Aguilar Blog
+https://getbootstrap.com/docs/4.0/components/buttons/ | Buttons · Bootstrap
+https://programacion.net/articulo/bootstrap_datetimepicker-_o_como_anadir_un_calendario_a_un_campo_input_1796 | Bootstrap Datetimepicker, o cómo añadir un calendario a un campo input. Programación en Castellano.
+https://norfipc.com/web/como-mostrar-fecha-hora-paginas-web-javascript.html | Como mostrar la fecha y hora en las páginas web usando Javascript
+https://getbootstrap.com/docs/4.0/components/buttons/ | Buttons · Bootstrap
+https://github.com/zetaB12/register_doc/blob/master/WebPresentation/Views/Home/Index.cshtml | register_doc/Index.cshtml at master · zetaB12/register_doc · GitHub
+
+https://www.google.com/search?q=agregar+tipografia++a+visual+.net+asp&rlz=1C1CHBF_esPE888PE888&source=lnms&tbm=vid&sa=X&ved=2ahUKEwirr_uP5e3nAhW6HjQIHTftCLkQ_AUoAXoECAwQAw&biw=1366&bih=667 | agregar tipografia a visual .net asp - Buscar con Google
+http://hongouru.blogspot.com/2010/04/c-como-agregar-fuentes-true-type-fonts.html | HELP GRANTED : C# Como agregar fuentes true type fonts .ttf a proyecto de visual c# express, visual studio, etc
+https://www.youtube.com/watch?v=pN3Ics48Hg8 | (CSS) Como poner cualquier tipografia/fuente en tu web ( @Font-Face ) - YouTube
+https://comunicacionabierta.net/2017/06/incluir-fuente-tipografia-web/ | Cómo incluir una fuente / tipografía en tu web | Comunicación Abierta
+https://geeks.ms/jorge/2012/04/12/utilizando-fuentes-personalizadas-en-nuestras-aplicaciones-de-windows-phone-7/ | Utilizando fuentes personalizadas en nuestras aplicaciones de Windows Phone 7 – Jorge Serrano
+
+https://www.google.com/search?q=class%3D%22label+label-info&rlz=1C1CHBF_esPE888PE888&oq=class%3D%22label+label-info&aqs=chrome..69i57j0l2.407j0j7&sourceid=chrome&ie=UTF-8 | class="label label-info - Buscar con Google
+https://getbootstrap.com/docs/4.4/components/badge/ | Badges · Bootstrap
+https://stackoverflow.com/questions/50041618/how-to-add-class-in-v-if-vue-js | How to add class in v-if Vue.js - Stack Overflow
+https://es.vuejs.org/v2/guide/class-and-style.html | Enlace Clases y Estilos — Vue.js
+https://forum.vuejs.org/t/add-class-if-comparison-true/10479 | Add class if comparison == true - Get Help - Vue Forum
+https://www.google.com/search?rlz=1C1CHBF_esPE888PE888&ei=AYBVXu-aDs6e-gTUyqbgAw&q=collapse+todo+visual+studio&oq=collapse+todo+visual+studio&gs_l=psy-ab.3...9630.13398..13467...2.1..0.467.2769.3-4j3......0....1..gws-wiz.......0i71.LnSIAA7Y_Ws&ved=0ahUKEwivn8uDwu3nAhVOj54KHVSlCTwQ4dUDCAs&uact=5 | collapse todo visual studio - Buscar con Google
+https://docs.microsoft.com/en-us/visualstudio/ide/outlining?view=vs-2019 | Collapse and expand regions of code - Visual Studio | Microsoft Docs
+https://stackoverflow.com/questions/982677/command-to-collapse-all-sections-of-code | visual studio 2008 - Command to collapse all sections of code? - Stack Overflow
+
+https://styde.net/estilos-y-clases-de-css-dinamicas-con-la-directiva-v-bind-en-vue-2/ | Estilos y clases de CSS dinámicas con la directiva v-bind en Vue 2 – Styde.net
+
+https://www.google.com/search?rlz=1C1CHBF_esPE888PE888&ei=_kFUXryNEKWb5OUP0r6pkAc&q=class+has-error+robust+template&oq=class+has-error+robust+template&gs_l=psy-ab.3...9397.10840..10973...1.2..0.322.1318.2-4j1......0....1..gws-wiz.......0i71.8NgYrqLnrw4&ved=0ahUKEwi8hOjfkuvnAhWlDbkGHVJfCnIQ4dUDCAs&uact=5 | class has-error robust template - Buscar con Google
+https://www.linguee.com/english-spanish/translation/robust+error.html | robust error - Spanish translation – Linguee
+https://github.com/symfony/symfony/issues/24841 | Bootstrap 4 form themes validation errors styling not working on Symfony 3.4 · Issue #24841 · symfony/symfony · GitHub
+https://www.google.com/search?q=v-if+class+vue+error+ejemplo&source=lmns&bih=667&biw=1366&rlz=1C1CHBF_esPE888PE888&hl=es&ved=2ahUKEwirhtLrk-vnAhX_FLkGHYo6ArAQ_AUoAHoECAEQAA | v-if class vue error ejemplo - Buscar con Google
+https://es.vuejs.org/v2/guide/class-and-style.html | Enlace Clases y Estilos — Vue.js
+https://es.vuejs.org/v2/guide/conditional.html | Renderización Condicional — Vue.js
+https://stackoverflow.com/questions/56603897/show-class-if-inputinvalidnotempty-in-vue-js | javascript - Show class if input:invalid:not(:empty) in vue.js - Stack Overflow
+http://127.0.0.1:5500/contrato.html | 127.0.0.1:5500/contrato.html
+https://medium.com/mundo-framework/activar-un-formulario-de-forma-sencilla-y-sin-complicaciones-13168ce0d9ce | Activar un formulario de forma sencilla y sin complicaciones
+
+http://localhost:58988/ProtocoloGenerico/New/1# | Fitness Dashboard - Robust - Responsive Bootstrap 4 Admin Dashboard Template for Web Application
+https://www.google.com/search?rlz=1C1CHBF_esPE888PE888&ei=qH1MXpSON6jC5OUP98OziAc&q=update+query+for+xml+in+sql&oq=+update+xml+in+sql&gs_l=psy-ab.3.0.0i7i30i19l4j0i19l5j0i5i10i30i19.5881.9059..11861...0.0..0.176.1266.0j10......0....1..gws-wiz.......0i7i30j0i13j0i8i7i30i19.j1YTCjGwQoI | update query for xml in sql - Buscar con Google
+https://www.mssqltips.com/sqlservertip/2738/examples-of-using-xquery-to-update-xml-data-in-sql-server/ | Examples of using XQuery to update XML Data in SQL Server
+https://stackoverflow.com/questions/16514067/update-xml-stored-in-a-xml-column-in-sql-server | Update XML stored in a XML column in SQL Server - Stack Overflow
+http://www.royrojas.com/usando-merge-para-insert-y-update/ | Usando MERGE para INSERT y UPDATE - royrojas.com
+https://www.google.com/search?q=merge+update+sql+server&rlz=1C1CHBF_esPE888PE888&oq=merge+upda&aqs=chrome.4.69i57j0l6j69i60.9537j0j4&sourceid=chrome&ie=UTF-8 | merge update sql server - Buscar con Google
+https://www.sqlservertutorial.net/sql-server-basics/sql-server-merge/ | SQL Server MERGE: The Essential Guide to MERGE Statement
+https://www.mssqltips.com/sqlservertip/1704/using-merge-in-sql-server-to-insert-update-and-delete-at-the-same-time/ | Using MERGE in SQL Server to insert, update and delete at the same time
+https://www.sqlshack.com/sql-server-merge-statement-overview-and-examples/ | SQL Server MERGE Statement overview and examples
+
+https://codingpotions.com/vue-metodos-computadas | VueJS - Methods y computed properties
+https://www.google.com/search?rlz=1C1CHBF_esPE888PE888&ei=islKXqCnCYK55OUP8c61EA&q=select+depende+de+otro+select+mvc&oq=select+depende+de+otro+select+mvc&gs_l=psy-ab.3...1759336.1760721..1761078...0.1..0.399.1788.2-4j2......0....1..gws-wiz.......0i71j0i22i30j33i160.EE3d7KLiYsg&ved=0ahUKEwiglIHOitnnAhWCHLkGHXFnDQIQ4dUDCAs&uact=5 | select depende de otro select mvc - Buscar con Google
+https://somostechies.com/combos-en-cascada-para-asp-net-mvc/ | Combos en cascada para ASP.NET MVC
+https://geeks.ms/etomas/2013/04/25/combos-en-asp-net-mvc/ | Combos en ASP.NET MVC – Burbujas en .NET
+https://www.genesisvargasj.com/blog/cargar-select-dependiente-a-partir-de-la-seleccion-de-otro-select-con-ajax-y-php | Cargar select dependiente a partir de la seleccion de otro select con AJAX y PHP
+https://codepen.io/anon/pen/aJOOOe?editors=1010 | A Pen by Captain Anonymous
+https://vue-select.org/ | Vue Select | Vue Select
+http://chuwiki.chuidiang.org/index.php?title=Combo_que_depende_de_otro_Combo_con_Javascript_y_jQuery | Combo que depende de otro Combo con Javascript y jQuery - ChuWiki
+https://stackoverflow.com/questions/11179406/jquery-get-value-of-select-onchange | jQuery get value of select onChange - Stack Overflow
+
+https://es.stackoverflow.com/questions/247979/on-change-en-select-con-vue | vue.js - On Change en Select con Vue - Stack Overflow en español
+https://stackoverflow.com/questions/50982408/vue-js-get-selected-option-on-change | javascript - Vue.js obtiene la opción seleccionada en @change
+https://vuejs.org/v2/guide/forms.html#Select | Form Input Bindings — Vue.js
+https://www.google.com/search?rlz=1C1CHBF_esPE888PE888&ei=ZtVKXrCCIICg5OUP8Km_sAg&q=change+en+vuejs+select+&oq=change+en+vuejs+select+&gs_l=psy-ab.3..0i22i30.2802.3719..5972...0.2..1.363.2175.2-5j3......0....1..gws-wiz.......0i71j0i22i10i30.kjWb5zRo8xA&ved=0ahUKEwiwze71ldnnAhUAELkGHfDUD4YQ4dUDCAs&uact=5 | change en vuejs select - Buscar con Google
+https://stackoverflow.com/questions/50982408/vue-js-get-selected-option-on-change | javascript - Vue.js get selected option on @change - Stack Overflow
+https://codepen.io/giorgosk/pen/zdWrEY | vuejs select v-on:change or @change
+https://es.stackoverflow.com/questions/247979/on-change-en-select-con-vue | vue.js - On Change en Select con Vue - Stack Overflow en español
+https://es.vuejs.org/v2/guide/forms.html | Binding en Formularios — Vue.js
+https://forum.vuejs.org/t/option-template-with-v-on-change/41072/4 | Option template with v-on:change - General Discussion - Vue Forum
+https://forum.vuejs.org/t/set-new-select-value-when-on-change/18191/2 | Set new select value when on change - Get Help - Vue Forum
+https://www.google.com/search?q=select+change+event+vuejs&rlz=1C1CHBF_esPE888PE888&oq=select+change+vuejs&aqs=chrome.2.69i59j0l4j69i60l2j69i61.10184j0j7&sourceid=chrome&ie=UTF-8 | select change event vuejs - Buscar con Google
+https://stackoverflow.com/questions/50982408/vue-js-get-selected-option-on-change | javascript - Vue.js get selected option on @change - Stack Overflow
+https://github.com/vuejs/vue/issues/293 | Seleccionar elemento con v-model y v-on = "change: onChange" funciona de manera diferente en FF · Problema # 293 · vuejs / vue · GitHub
